@@ -1,0 +1,4 @@
+#ignore all Jason and .DS_Store files 
+
+*.vscode/
+*.DS_Store
