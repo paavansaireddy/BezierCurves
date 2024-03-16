@@ -9,7 +9,7 @@ void mouse_handler(int event, int x, int y, int flags, void *userdata)
 {
     if (event == cv::EVENT_LBUTTONDOWN && control_points.size() < 4) 
     {
-        std::cout << "Left btn of the mouse is clicked - position (" << x << ", "
+        std::cout << "Left button of the mouse is clicked - position (" << x << ", "
         << y << ")" << '\n';
         control_points.emplace_back(x, y);
     }     
