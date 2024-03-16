@@ -1,0 +1,7 @@
+-> implemented using De Casteljau algorithm and a naive algorithm. 
+-> after guilding your file executive by running ./BezierCurve command. 
+-> A black screen popups and costruct the four pouints on the screen using mouse.
+-> Then you will see a curve which is in grees constructed from the first point to the last pont. 
+-> You will see a green curve if you have used the De Casteljau algorithm.
+-> you will see a red curve if you have used the naive algorithm. 
+-> you will see a yallow if you have used the both. This proves that the implementation of De Casteljau algorithm is correct.
